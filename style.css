@@ -479,6 +479,3 @@ footer .left ul {
     text-decoration: none;
     color: var(--just-white);
 }
-a:hover {
-    color: var(--bitcoin-orange);
-}
